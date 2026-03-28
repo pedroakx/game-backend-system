@@ -1,2 +1,5 @@
-# game-backend-system
-game backend system, more specifically a rating based matchmaking
+# Game Backend Study
+
+## Run
+
+docker-compose up --build
