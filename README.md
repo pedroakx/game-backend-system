@@ -1,4 +1,4 @@
-# 🎮 Game Backend System
+# 🎮 Game Backend System (Current in development)
 
 ## 📌 Overview
 
@@ -87,4 +87,4 @@ uvicorn main:app --reload
 
 ## 👤 Author
 
-Your Name
+Pedroakx
